@@ -4,7 +4,7 @@ Example of design made by the layout (Figma). The project is optimized for mobil
 
 ## Demo
 
-### [https://portfolio-layout.vercel.app/home.html/](https://portfolio-layout.vercel.app/home.html/)
+### [https://portfolio-layout.vercel.app/home.html](https://portfolio-layout.vercel.app/home.html)
 
 ## Installation
 
